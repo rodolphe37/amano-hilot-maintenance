@@ -35,7 +35,7 @@ header.attente > img {
 }
 .titre-attente {
   max-width: 25ch;
-  margin-top: 10px;
+  margin-top: 49px;
   margin-bottom: 30px;
   text-align: center;
   color: white;
@@ -48,6 +48,7 @@ header.attente > img {
   justify-content: center;
   position: relative;
   z-index: 19;
+  margin-left: 75px;
 }
 .content > sup {
   font-size: 20px;
