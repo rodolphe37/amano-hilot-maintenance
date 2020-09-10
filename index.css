@@ -102,6 +102,8 @@ header.attente > img {
 .plinte {
   height: 2vh;
   background-color: #3d7181;
+  border-top: 1px solid cadetblue;
+  border-bottom: 1px solid darkgoldenrod;
 }
 .sol {
   height: 32vh;
